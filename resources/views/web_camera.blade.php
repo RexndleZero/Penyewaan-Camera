@@ -14,7 +14,7 @@
     <header class="bg-black">
         <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
           <div class="flex h-16 items-center justify-between">
-            <div class="md:flex md:items-center md:gap-12">
+            <div class="md:flex md:items-center  md:gap-12">
               <a class="block text-teal-600" href="/">
                 <span class="sr-only">Home</span>
                 <svg class="h-8" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -143,7 +143,7 @@
               <h2 class="text-xl font-bold text-gray-900 sm:text-3xl">Camera's</h2>
 
               <p class="mt-4 text-gray-500">
-                Mari Belanja Di mari karena hanya website ini yang memiliki diskon 3m (Murah,meriah,mantap) jangan lupa di beli ya!.
+                Mari sewa Di mari karena hanya website ini yang memiliki diskon 3m (Murah,meriah,mantap) jangan lupa di beli ya!.
               </p>
             </header>
 
@@ -151,7 +151,7 @@
               href="#"
               class="mt-8 inline-block rounded border border-gray-900 bg-gray-900 px-12 py-3 text-sm font-medium text-white transition hover:shadow focus:outline-none focus:ring"
             >
-              Buy Now!
+              Sewa Now!
             </a>
           </div>
         </div>
@@ -206,29 +206,27 @@
   <section class="overflow-hidden rounded-lg shadow-2xl md:grid md:grid-cols-3">
     <img
       alt="Trainer"
-      src="https://images.unsplash.com/photo-1611510338559-2f463335092c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
-      class="h-32 w-full object-cover md:h-full"
+      src="https://sewakamerabandung.id/wp-content/uploads/2021/11/Banner-2-01.jpg"
+      class="h-100 w-full object-cover md:h-300"
     />
-  
+
     <div class="p-4 text-center sm:p-6 md:col-span-2 lg:p-8">
       <p class="text-sm font-semibold uppercase tracking-widest">Run with the pack</p>
-  
+
       <h2 class="mt-6 font-black uppercase">
         <span class="text-4xl font-black sm:text-5xl lg:text-6xl"> Get 20% off </span>
-  
-        <span class="mt-2 block text-sm">On your next order over $50</span>
+
+        <span class="mt-2 block text-sm">On your next rent over $50</span>
       </h2>
-  
+
       <a
         class="mt-8 inline-block w-full bg-black py-4 text-sm font-bold uppercase tracking-widest text-white"
         href=""
       >
         Get Discount
       </a>
-  
-      <p class="mt-8 text-xs font-medium uppercase text-gray-400">
-        Offer valid until 24th March, 2021 *
-      </p>
+
+
     </div>
   </section>
 
@@ -476,7 +474,7 @@
       <h2 class="text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
         Read trusted reviews from our customers
       </h2>
-  
+
       <div class="mt-8 [column-fill:_balance] sm:columns-2 sm:gap-6 lg:columns-3 lg:gap-8">
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
@@ -486,7 +484,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -540,11 +538,11 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa sit rerum incidunt, a
               consequuntur recusandae ab saepe illo est quia obcaecati neque quibusdam eius accusamus
@@ -552,7 +550,7 @@
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -561,7 +559,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -615,18 +613,18 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad mollitia rerum quo unde
               neque atque molestias quas pariatur! Sint, maxime?
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -635,7 +633,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -689,11 +687,11 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit esse delectus,
               maiores fugit, reiciendis culpa inventore sint accusantium libero dolore eos quasi a ex
@@ -701,7 +699,7 @@
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -710,7 +708,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -764,17 +762,17 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, fuga?
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -783,7 +781,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -837,11 +835,11 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate officia natus
               blanditiis rerum incidunt ex autem repudiandae doloribus eveniet quia? Culpa commodi
@@ -851,7 +849,7 @@
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -860,7 +858,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -914,18 +912,18 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, rerum. Nobis laborum
               praesentium necessitatibus vero.
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -934,7 +932,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -988,11 +986,11 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores quaerat quasi ipsa
               repellendus quam! Beatae pariatur quia distinctio fugit repellendus repudiandae nostrum
@@ -1000,7 +998,7 @@
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -1009,7 +1007,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -1063,17 +1061,17 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, modi!
             </p>
           </blockquote>
         </div>
-  
+
         <div class="mb-8 sm:break-inside-avoid">
           <blockquote class="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
             <div class="flex items-center gap-4">
@@ -1082,7 +1080,7 @@
                 src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
                 class="h-14 w-14 rounded-full object-cover"
               />
-  
+
               <div>
                 <div class="flex justify-center gap-0.5 text-green-500">
                   <svg
@@ -1136,11 +1134,11 @@
                     />
                   </svg>
                 </div>
-  
+
                 <p class="mt-0.5 text-lg font-medium text-gray-900">Paul Starr</p>
               </div>
             </div>
-  
+
             <p class="mt-4 text-gray-700">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam numquam, unde molestiae
               commodi temporibus dicta.
@@ -1154,30 +1152,30 @@
     <div class="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
         <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Trusted by eCommerce Businesses</h2>
-  
+
         <p class="mt-4 text-gray-500 sm:text-xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores laborum labore
           provident impedit esse recusandae facere libero harum sequi.
         </p>
       </div>
-  
+
       <div class="mt-8 sm:mt-12">
         <dl class="grid grid-cols-1 gap-4 sm:grid-cols-3">
           <div class="flex flex-col rounded-lg bg-blue-100 px-4 py-8 text-center">
             <dt class="order-last text-lg font-medium text-gray-500">Total Sales</dt>
-  
+
             <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">$4.8m</dd>
           </div>
-  
+
           <div class="flex flex-col rounded-lg bg-blue-100 px-4 py-8 text-center">
             <dt class="order-last text-lg font-medium text-gray-500">Official Addons</dt>
-  
+
             <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">24</dd>
           </div>
-  
+
           <div class="flex flex-col rounded-lg bg-blue-100 px-4 py-8 text-center">
             <dt class="order-last text-lg font-medium text-gray-500">Total Addons</dt>
-  
+
             <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">86</dd>
           </div>
         </dl>
