@@ -34,13 +34,7 @@
                     <a class="text-gray-500 transition hover:text-gray-500/75" href="/"> Catalog </a>
                   </li>
 
-                  <li>
-                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/"> Pricelist </a>
-                  </li>
 
-                  <li>
-                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/"> Cart </a>
-                  </li>
 
                   <li>
                     <a class="text-gray-500 transition hover:text-gray-500/75" href="/"> About Us </a>
@@ -151,7 +145,7 @@
       </h2>
 
       <a
-        class="mt-8 inline-block w-full bg-teal-600 py-4 text-sm font-bold uppercase tracking-widest text-white"
+        class="mt-8 inline-block w-full bg-teal-600 py-4 text-sm font-bold case tracking-widest text-white"
         href=""
       >
         Get Discount
@@ -231,37 +225,7 @@
       </div>
     </div>
   </section>
-  <section class="overflow-hidden rounded-lg shadow-2xl md:grid md:grid-cols-3">
-    <img
-      alt="Trainer"
-      src="https://images.unsplash.com/photo-1611510338559-2f463335092c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
-      class="h-32 w-full object-cover md:h-full"
-    />
-
-    <div class="p-4 text-center sm:p-6 md:col-span-2 lg:p-8">
-      <p class="text-sm font-semibold uppercase tracking-widest">Run with the pack</p>
-
-      <h2 class="mt-6 font-black uppercase">
-        <span class="text-4xl font-black sm:text-5xl lg:text-6xl"> Get 20% off </span>
-
-        <span class="mt-2 block text-sm">On your next order over $50</span>
-      </h2>
-
-      <a
-        class="mt-8 inline-block w-full bg-black py-4 text-sm font-bold uppercase tracking-widest text-white"
-        href=""
-      >
-        Get Discount
-      </a>
-
-      <p class="mt-8 text-xs font-medium uppercase text-gray-400">
-        Offer valid until 24th March, 2021 *
-      </p>
-    </div>
-  </section>
-
   <!-- Products -->
-
     <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
       <header class="text-center">
         <h2 class="text-xl font-bold text-gray-900 sm:text-3xl">Product Collection</h2>
@@ -277,7 +241,7 @@
             <img
               src="https://www.sony.co.id/image/2991924bb09ccff08be69031885a361a?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
               alt="GambarProduk1"
-              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
+              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[290px]"
             />
 
             <div class="relative bg-white pt-3">
@@ -297,14 +261,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://www.pondoklensa.com/files/photo/web/product/md/50497d9e247aefc86873bdce42c16d99_1700459032.jpg"
               alt="GambarProduk2"
-              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
+              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[250px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ILCE-7CR
+              GoPro Hero 10 Action Camera (5.3K60 4K120, HyperSmooth 4.0)
               </h3>
 
               <p class="mt-2">
@@ -319,14 +283,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://www.pondoklensa.com/files/photo/web/product/md/846930d9a6e05aec606148dceefae07d_1700461118.jpg"
               alt="GambarProduk3"
-              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
+              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[250px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ILCE-7CM2
+              Sony A6600 mirrorless digital camera
               </h3>
 
               <p class="mt-2">
@@ -341,14 +305,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://sewakamerabandung.id/wp-content/uploads/2019/05/Untitled-4-6-380x380.jpg"
               alt="GambarProduk4"
-              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
+              class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[220px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ILCE-6700
+              Fujifilm X-A3 (Maroon)
               </h3>
 
               <p class="mt-2">
@@ -366,14 +330,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://sewakamerabandung.id/wp-content/uploads/2019/05/Untitled-7-1-380x380.jpg"
               alt="GambarProduk5"
               class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                 ZV-E1
+              Canon EOS 70D
               </h3>
 
               <p class="mt-2">
@@ -388,14 +352,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://www.pondoklensa.com/files/photo/web/product/lg/8495c9109f04cc0329b057ba84777cad_17000109051.jpg"
               alt="GambarProduk6"
               class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ILCE-7RM5
+              Canon EF 15mm f/2.8 Fisheye
               </h3>
 
               <p class="mt-2">
@@ -410,14 +374,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://www.pondoklensa.com/files/photo/web/product/md/eb2b2301b7299b24aaac0dc5c85c0a53_1700011573.jpg"
               alt="GambarProduk7"
               class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ZV-E10
+              Canon FD 55mm f/1.2 SSC (EF Mount)
               </h3>
 
               <p class="mt-2">
@@ -432,14 +396,14 @@
         <li>
           <a href="#" class="group block overflow-hidden">
             <img
-              src=""
+              src="https://www.pondoklensa.com/files/photo/web/product/md/e14db5d17c93416a7b52efd4b17107ec_1700465521.png"
               alt="GambarProduk8"
               class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
             />
 
             <div class="relative bg-white pt-3">
               <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                ILCE-7S
+              Tripod Video Miller Arrow 50 Kit (100mm bowl head)
               </h3>
 
               <p class="mt-2">
@@ -453,14 +417,14 @@
         <li>
             <a href="#" class="group block overflow-hidden">
               <img
-                src=""
+                src="https://www.pondoklensa.com/files/photo/web/product/md/11ab8fdbd74acec730f66096c19cab43_1700465326.jpg"
                 alt="GambarProduk9"
                 class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
               />
 
               <div class="relative bg-white pt-3">
                 <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    ILCE-7/ILCE-7K
+                Tripod Video Attanta VD-2500
                 </h3>
 
                 <p class="mt-2">
@@ -474,14 +438,14 @@
           <li>
             <a href="#" class="group block overflow-hidden">
               <img
-                src=""
+                src="https://www.pondoklensa.com/files/photo/web/product/md/846930d9a6e05aec606148dceefae07d_1700465738.jpg"
                 alt="GambarProduk10"
                 class="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
               />
 
               <div class="relative bg-white pt-3">
                 <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    ILCE-7RM3
+                Velbon Sherpa 603 R/F ball head Tripod
                 </h3>
 
                 <p class="mt-2">
@@ -499,7 +463,7 @@
   <section class="bg-white">
     <div class="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
-        <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Trusted by eCommerce Businesses</h2>
+        <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Trusted by SONY PICTURES & </h2>
 
         <p class="mt-4 text-gray-500 sm:text-xl">
          Website Penyewaan ini sudah terpercaya Produk/Brand ternama Yaitu SONY Pictures
