@@ -17,10 +17,27 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/register', function () {
+    return view('auth.register');
+});
+Route::get('/login', function () {
+    return view('auth.login');
+});
 Route::get('/web', function () {
     return view('web_camera');
 });
-
+Route::get('/Product', function () {
+    return view('profile.Product_Camera.Product');
+});
+Route::get('/About_us', function () {
+    return view('profile.Product_Camera.about_us');
+});
+Route::get('/meet_dev', function () {
+    return view('profile.Product_Camera.meet_developer');
+});
+Route::get('/cart', function () {
+    return view('profile.Product_Camera.your_cart');
+});
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
