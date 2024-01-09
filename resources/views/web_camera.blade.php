@@ -19,7 +19,7 @@
               <a class="block text-blue-600" href="/">
                 <span class="sr-only">Home</span>
                 <a href="#">
-                    <img src="" alt="Logo">
+                    <img src="Image/camera-1.png" alt="Logo">
                 </a>
               </a>
             </div>
@@ -39,7 +39,7 @@
                     <a class="text-blue-500 transition hover:text-blue-500/75" href="/meet_dev"> Meet The Developer </a>
                   </li>
                   <li>
-                    <a class="text-blue-500 transition hover:text-blue-500/75" href="/cart"> Cart </a>
+                    <a class="text-blue-500 transition hover:text-blue-500/75" href="/sewa"> Penyewaan </a>
                   </li>
                 </ul>
               </nav>
@@ -66,6 +66,7 @@
 
               <div class="block md:hidden">
                 <button class="rounded bg-gray-100 p-2 text-blue-600 transition hover:text-blue-600/75">
+                    <a href="/sidebar">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     class="h-5 w-5"
@@ -76,6 +77,7 @@
                   >
                     <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
                   </svg>
+                    </a>
                 </button>
 
               </div>

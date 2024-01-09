@@ -35,8 +35,11 @@ Route::get('/About_us', function () {
 Route::get('/meet_dev', function () {
     return view('profile.Product_Camera.meet_developer');
 });
-Route::get('/cart', function () {
-    return view('profile.Product_Camera.your_cart');
+Route::get('/sewa', function () {
+    return view('profile.Product_Camera.penyewaan');
+});
+Route::get('/sidebar', function () {
+    return view('profile.Product_Camera.menu_sidebar');
 });
 Route::get('/dashboard', function () {
     return view('dashboard');
