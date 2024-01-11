@@ -1,6 +1,9 @@
 <?php
 
+use App\Http\Controllers\kategori_camera;
 use App\Http\Controllers\ProfileController;
+use App\Models\penyewaan_camera;
+use App\Http\Controllers\penyewaan_camera_controller;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -35,12 +38,20 @@ Route::get('/About_us', function () {
 Route::get('/meet_dev', function () {
     return view('profile.Product_Camera.meet_developer');
 });
-Route::get('/sewa', function () {
-    return view('profile.Product_Camera.penyewaan');
+Route::get('/kategori', function () {
+    return view('profile.Product_Camera.kategori_camera');
 });
+Route::get('/sewa', [penyewaan_camera_controller::class, 'penyewaan_camera'])->name('sewa');
+Route::post('/sewa_add', [penyewaan_camera_controller::class, 'penyewaan_camera_add'])->name('sewa_add');
+
+
+
+
 Route::get('/sidebar', function () {
     return view('profile.Product_Camera.menu_sidebar');
 });
+
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
